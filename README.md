@@ -1,2 +1,2 @@
 # learn-react
-This is learn project on React
+This is learn tutorial project on React
